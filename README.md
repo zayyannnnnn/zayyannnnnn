@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-[![MasterHead](![Alt text](8f2325b5-8695-43be-9e61-01954897fe9e-1.gif)# 💫 About Me:
-=======
-# 💫 About Me:
->>>>>>> 6babcb27913e783bec998e9993167831b8af1115
+
+!(gambar)(![Alt text](8f2325b5-8695-43be-9e61-01954897fe9e.gif)# 💫 About Me:
 ✨i’m currently studying in Universitas Gadjah Mada<br>✨i’m currently python and github
 
 
@@ -22,5 +19,3 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=zayyannnnnn&icon=1&color=7)](https://visitcount.itsvg.in)
