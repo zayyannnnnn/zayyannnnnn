@@ -1,5 +1,7 @@
-
-!(gambar)(![Alt text](8f2325b5-8695-43be-9e61-01954897fe9e.gif)# 💫 About Me:
+<div align="center" width="500">
+<img src="https://im2.ezgif.com/tmp/ezgif-2-01c6cd80cc.gif" width="600">
+</div>
+💫 About Me:
 ✨i’m currently studying in Universitas Gadjah Mada<br>✨i’m currently python and github
 
 
